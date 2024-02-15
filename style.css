@@ -1,0 +1,59 @@
+.container{
+    margin-bottom: 40px;
+}
+.slider_bg{
+    background-color: #FCEAE8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 50px;
+}
+.heading{
+    font-weight: bolder;
+}
+.price{
+    color:#ff136f;
+}
+.paragraph{
+    text-align: justify;
+    padding-right: 100px;
+}
+.search{
+    width: 400px;
+    height: 35px;
+}
+.watch, .bag, .shoes{
+    color: white;
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.watch{
+    background-color: #F2AA29;
+}
+.bag{
+    background-color: orchid;
+}
+.shoes{
+    background-color: blue;
+}
+.cattegories img{
+    width: 120px;
+}
+
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+}
+#contact{
+    height: 300px;
+}
+#contact h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    color: red;
+}
